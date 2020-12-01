@@ -1,0 +1,10 @@
+
+# git commands
+
+git init
+git add <file>
+git status
+git commit
+git push :    upload the file to remote repo
+git pull
+git clone
