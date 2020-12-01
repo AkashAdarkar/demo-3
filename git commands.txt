@@ -12,3 +12,5 @@ git clone
 git remote add origin <https>
 git branch -M master or any other branch
 git push -u origin master or any other branch
+
+git pull origin master
