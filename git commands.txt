@@ -14,3 +14,5 @@ git branch -M master or any other branch
 git push -u origin master or any other branch
 
 git pull origin master
+
+git push --set-upstream origin timepass
