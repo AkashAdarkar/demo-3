@@ -18,4 +18,4 @@ now re-adding it again!
 now creating a new branch
 
 i m on a new branch now named timepass .
-whatever i m writing will be push to master branch for now 
+whatever i m writing will be push to timepass branch .
