@@ -8,3 +8,7 @@ git commit
 git push :    upload the file to remote repo
 git pull
 git clone
+
+git remote add origin <https>
+git branch -M master or any other branch
+git push -u origin master or any other branch
