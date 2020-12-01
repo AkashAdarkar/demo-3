@@ -13,4 +13,7 @@ git push --set-upstream origin hot-fix
 
 now i created a new branch called hot-fix so whatever i write here will be visible on hot-fix
 
-merging hot-fix and timepass
+merging hot-fix and master
+
+
+this is text ok.
