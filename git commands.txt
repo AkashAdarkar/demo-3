@@ -15,4 +15,4 @@ git push -u origin master or any other branch
 
 git pull origin master
 
-git push --set-upstream origin timepass
+git push --set-upstream origin hot-fix
