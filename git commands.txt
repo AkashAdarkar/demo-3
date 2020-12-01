@@ -14,3 +14,7 @@ git branch -M master or any other branch
 git push -u origin master or any other branch
 
 git pull origin master
+
+git rm --cached<file>
+git commit -m "message"
+git push
