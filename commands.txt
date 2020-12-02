@@ -1,0 +1,25 @@
+
+# git commands
+
+git init
+git add <file>
+git status
+git commit
+git push :    upload the file to remote repo
+git pull
+git clone
+
+git remote add origin <https>
+git branch -M master or any other branch
+git push -u origin master or any other branch
+
+git pull origin master
+
+
+git rm --cached<file>
+git commit -m "message"
+git push
+
+git push --set-upstream origin hot-fix
+
+(  ignore me )
