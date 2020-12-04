@@ -17,3 +17,6 @@ merging hot-fix and master
 
 
 this is text ok.
+
+
+this is a staged text .
